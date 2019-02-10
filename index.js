@@ -6,7 +6,7 @@ var beatles = []
   }
    return beatles
  }
-function johnLennonFacts(facts) {
+function johnLennonFacts(facts){
  var newFacts = []
  let x = 0
   while (x < facts.length) {
@@ -16,7 +16,7 @@ function johnLennonFacts(facts) {
  return newFacts
 }
 
-function iLoveTheBeatles(x) {
+function iLoveTheBeatles(x){
  var beatles = []
  let x = 0
   do {
