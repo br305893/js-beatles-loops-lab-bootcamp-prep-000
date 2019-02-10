@@ -20,7 +20,7 @@ function iLoveTheBeatles(x){
  var loveBeatlesArray = []
  let x = 0
   do {
-   beatles.push("I love the Beatles!")
+   loveBeatlesArray.push("I love the Beatles!")
    x++
  }
   while (x < 15)
