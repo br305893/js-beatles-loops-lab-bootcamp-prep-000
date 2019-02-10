@@ -20,7 +20,7 @@ function iLoveTheBeatles(x) {
 var beatles = []
 let x = 0
   do {
-   "I love the Beatles!"
+   beatles.push("I love the Beatles!")
    x++
   }
   while (x < 15) {
