@@ -23,7 +23,4 @@ let x = 0
    beatles.push("I love the Beatles!")
    x++
   }
-  while (x < 15) {
-  }
-  return beatles
-}
+  while (x < 15)
